@@ -51,6 +51,7 @@ A Benchmark Dataset and Baseline
 - https://github.com/antgroup/echomimic_v2/tree/main/EMTD_dataset
 - https://github.com/JOY-MM/JoyGen
 - https://github.com/celebv-text/celebv-text#videos
+- https://github.com/anjieyang/VFHQ-downloader # // vfhq downloader
 
 ## Star History
 
