@@ -28,7 +28,8 @@ A Benchmark Dataset and Baseline
 - Celebv-text: [[`Download link`](https://github.com/celebv-text/celebv-text#videos)] # see https://celebv-text.github.io/ for more details
 - DH-FaceVid-1K: [[`Download link`](https://github.com/fenghe12/facevid-1k)]
 - OpenHumanVid: [[`Download link`](https://github.com/fudan-generative-vision/OpenHumanVid)] # openhumanvid is a large-scale and high-quality human-centric video dataset, including 13.2M samples / 16.7 khrs duration / ~6.05 TB
-- HumanML3D: [[`Download link`](https://github.com/EricGuo5513/HumanML3D)] 
+- HumanML3D: [[`Download link`](https://github.com/EricGuo5513/HumanML3D)]
+- FEED: Facial Extreme Emotions Dataset: [[`Download link`](https://github.com/neeek2303/FEED)] #  or huggingface : https://huggingface.co/datasets/McCheng/FEED
 
 
 ## some ted and youtube videos
