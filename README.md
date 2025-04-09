@@ -24,8 +24,8 @@ Collection of some avatar/talking-head datasets, human motion videos, useful for
 A Benchmark Dataset and Baseline
 - MultiTalk_dataset  [[`Download link`](https://github.com/postech-ami/MultiTalk/tree/main/MultiTalk_dataset)]
 - Bilibili and douyin video URLs: [[`Download link`](https://drive.google.com/drive/folders/1d9MVmYhdlVoIdSL05N0IIKma2kih6cUq?dmr=1&ec=wgc-drive-hero-goto)]
-- hallo3 dataset: [[`Download link`](https://huggingface.co/datasets/fudan-generative-ai/hallo3_training_data)]
-- Celebv-text: [[`Download link`](https://github.com/celebv-text/celebv-text#videos)] # see https://celebv-text.github.io/ for more details
+- hallo3 dataset: [[`Download link`](https://huggingface.co/datasets/fudan-generative-ai/hallo3_training_data)] # 130+ hours
+- Celebv-text: [[`Download link`](https://github.com/celebv-text/celebv-text#videos)] # see https://celebv-text.github.io/ for more details, 270+ hours
 - DH-FaceVid-1K: [[`Download link`](https://github.com/fenghe12/facevid-1k)]
 - OpenHumanVid: [[`Download link`](https://github.com/fudan-generative-vision/OpenHumanVid)] # openhumanvid is a large-scale and high-quality human-centric video dataset, including 13.2M samples / 16.7 khrs duration / ~6.05 TB
 - HumanML3D: [[`Download link`](https://github.com/EricGuo5513/HumanML3D)]
