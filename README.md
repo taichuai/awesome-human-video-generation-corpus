@@ -32,6 +32,7 @@ A Benchmark Dataset and Baseline
 - FEED: Facial Extreme Emotions Dataset: [[`Download link`](https://github.com/neeek2303/FEED)] #  or huggingface : https://huggingface.co/datasets/McCheng/FEED
 - AVSpeech, 4700 hours of video segments, from a total of 290k YouTube videos: [[`Download link`](https://looking-to-listen.github.io/avspeech)] #
 - Multi-human Interactive Talking Dataset: [[`Download link`](https://github.com/showlab/Multi-human-Talking-Video-Dataset)]
+- TalkVid: [[`Download link`](https://github.com/FreedomIntelligence/TalkVid)] - Large-scale high-quality talking head dataset TalkVid with over 1,244 hours of HD/4K footage
 
 
 ## some ted and youtube videos
