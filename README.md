@@ -33,6 +33,14 @@ A Benchmark Dataset and Baseline
 - AVSpeech, 4700 hours of video segments, from a total of 290k YouTube videos: [[`Download link`](https://looking-to-listen.github.io/avspeech)] #
 - Multi-human Interactive Talking Dataset: [[`Download link`](https://github.com/showlab/Multi-human-Talking-Video-Dataset)]
 - TalkVid: [[`Download link`](https://github.com/FreedomIntelligence/TalkVid)] - Large-scale high-quality talking head dataset TalkVid with over 1,244 hours of HD/4K footage
+* SpeakerVid-5M: [`Project link`](https://dorniwang.github.io/SpeakerVid-5M/) [`Data & processing code`](https://github.com/Dorniwang/SpeakerVid-5M-Code) - Over 5.2M portrait video clips totaling 8,743 hours, covering speaking, listening, dyadic conversations, and multi-turn interactions. Provides video IDs, annotations, and processing scripts; source videos need to be downloaded and reconstructed.
+* TalkVerse: [`Project & data info`](https://github.com/snap-research/TalkVerse) - A large-scale corpus for single-person audio-driven talking video generation, containing 2.1M clips / 6.3K hours curated from OpenHumanVid and Panda70M. Includes training and inference code.
+* LRS3-TED: [`Dataset info`](https://robots.ox.ac.uk/~vgg/data/lip_reading/index.html) - Sentence-level audio-visual speech dataset collected from TED and TEDx videos, useful for lip-reading, audio-visual alignment, and lip-sync evaluation.
+* LRW-1000: [`Dataset info`](https://vipl.ict.ac.cn/news/lab/201810/t20181024_34629.html) [`Paper`](https://arxiv.org/abs/1810.06990) - Mandarin word-level lip-reading dataset containing 718,018 samples across 1,000 classes from over 2,000 speakers.
+* TikTok Dance Dataset: [`Download link`](https://www.yasamin.page/hdnet_tiktok) - In-the-wild human dance videos, useful for pose-guided human animation and motion transfer. See also the [DisCo data preparation instructions](https://github.com/Wangt-CN/DisCo#data-preparation).
+* UBC Fashion Video Dataset: [`Download link`](https://vision.cs.ubc.ca/datasets/fashion/) - Fashion videos introduced in DwNet, useful for pose-guided human video generation and motion transfer.
+* AIST++: [`Download link`](https://google.github.io/aistplusplus_dataset/download.html) - Dance dataset containing 1,408 motion sequences across 10 dance genres, with music, corresponding multi-view videos, 2D/3D keypoints, and SMPL motion annotations.
+* BEAT2 (BEAT-SMPLX-FLAME): [`Project link`](https://is.mpg.de/ps/projects/emage-full-body-gestures-from-audio) [`Paper`](https://arxiv.org/abs/2401.00374) - 60 hours of holistic co-speech motion data in SMPL-X/FLAME format, useful for speech-driven body, hand, and facial animation. Primarily a motion/mesh dataset rather than an RGB video corpus.
 
 
 ## some ted and youtube videos
