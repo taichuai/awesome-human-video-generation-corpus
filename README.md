@@ -19,7 +19,7 @@ Collection of some avatar/talking-head datasets, human motion videos, useful for
 - LRS2 [[`Download link`](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs2.html)]
 - LRW [[`Download link`](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrw1.html)]
 - VOCA [[`Download link`](https://voca.is.tue.mpg.de/)]
-- CAS [`Paper(TVSVT 2026)`](https://arxiv.org/abs/2610.13301v1) [[`Download link`](https://huggingface.co/datasets/academic5000/CAS)]. CAS dataset is a large-scale dataset designed for the evaluation of co-speech gesture portrait video generation. It contains over 85.5h high-definition video clips featuring more than 800 unique speakers, covering diverse scenarios, camera views, body poses, and expressive speaking styles.
+- CAS [`Paper(TVSVT 2026)`](https://arxiv.org/abs/2610.13301v1), [[`Download link`](https://huggingface.co/datasets/academic5000/CAS)]. CAS is a large-scale dataset for co-speech gesture video generation. It features 85.5h of HD clips from over 800 speakers, covering diverse scenarios, views, poses, and styles.
 - RAVDESS(The Ryerson Audio-Visual Database of Emotional Speech and Song ) [[`Download link`](https://zenodo.org/records/1188976#.Xpaa3i-caAP)]
 - Vico  [[`Download link`](https://project.mhzhou.com/vico/)] .Responsive Listening Head Generation
 A Benchmark Dataset and Baseline
